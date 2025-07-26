@@ -1,0 +1,35 @@
+# Student Grade Calculator 🧮
+
+A simple Java console application that takes subject marks as input and calculates:
+
+- Total Marks
+- Average
+- Grade (A, B, C, D, F)
+
+## 🛠️ Technologies Used
+
+- Java
+- Command Line (CLI)
+
+## 🎯 Features
+
+- User inputs number of subjects and marks
+- Calculates total and average
+- Assigns grade based on average
+
+## 📷 Screenshot (Run Output)
+Enter number of subjects: 3
+Enter marks for subject 1: 87
+Enter marks for subject 2: 91
+Enter marks for subject 3: 78
+
+Total Marks: 256
+Average: 85.33
+Grade: B
+## 📁 How to Run
+
+Use any Java IDE or compiler:
+
+```bash
+javac StudentGradeCalculator.java
+java StudentGradeCalculator
